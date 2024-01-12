@@ -9,12 +9,12 @@ I am a Software Engineer, seeking to enhance my skills and contribute to innovat
 
 
 
-🚀 About Me
+### 🚀 About Me
 I am a UK-based software engineer/bioinformatician with a good foundation in python.
 
 
 
-🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 Here are some technologies and tools that I am proficient in:
 Languages: python, java
 Frameworks: flask, django
@@ -25,7 +25,7 @@ Version Control: Git, GitHub
 
 
 
-🌱 My Projects
+### 🌱 My Projects
 Explore some of the projects I've worked on:
 
 [Task Management System] (https://github.com/btoxon/finalCapstone.git)
