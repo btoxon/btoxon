@@ -9,8 +9,12 @@
 I am a passionate and creative Software Engineer, constantly seeking to enhance my skills and contribute to innovative projects. Welcome to my GitHub portfolio, where I showcase my projects, skills, and experiences.
 
 
+
+
 🚀 About Me
 I am a UK-based software engineer with a strong foundation in python, and I have since been involved in various exciting projects that have honed my skills.
+
+
 
 
 🔧 Technologies & Tools
@@ -20,6 +24,8 @@ Frameworks: flask, django
 Databases: MySQL, Microsoft Azure Cosmos DB
 Tools: Docker, Kubernetes, Github Actions, Jira, Azure Devops
 Version Control: Git, GitHub
+
+
 
 
 🌱 My Projects
