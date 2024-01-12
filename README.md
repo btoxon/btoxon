@@ -2,7 +2,7 @@
 
 # Welcome to btoxon's github
 <div align="center">
-  <img width="200" src="https://placekitten.com/200/200" alt="Your Profile Image">
+  <img width="200" src="https://placekitten.com](https://media.licdn.com/dms/image/D4E03AQE2oqHKvyzY9Q/profile-displayphoto-shrink_400_400/0/1682214889673?e=1710374400&v=beta&t=_aQm_iycpKA5EXa5LEkrZi-SPQAKH5L0ndqyFloGmbc/200/200" alt="Your Profile Image">
 </div>
 
 ### Hello I'm Ben Taiwo 👋
