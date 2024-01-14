@@ -29,7 +29,6 @@ Explore some of the projects I've worked on:
 ### 1. Task Management System (https://github.com/btoxon/finalCapstone.git)
 
 Description: A command-line Python program for efficient task management. This system allows users to register, log in, add tasks, and generate reports. Admin privileges provide additional functionalities like user registration and report generation.
-Technologies Used: python
 
 
 ### 2. Voice Recognition app (https://github.com/btoxon/voicerecognition.git)
