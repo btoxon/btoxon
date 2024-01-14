@@ -28,12 +28,15 @@ I am a UK-based software engineer/bioinformatician with a good foundation in pyt
 ### 🌱 My Projects
 Explore some of the projects I've worked on:
 
-Task Management System (https://github.com/btoxon/finalCapstone.git)
+### 1. Task Management System (https://github.com/btoxon/finalCapstone.git)
 
 Description: A command-line Python program for efficient task management. This system allows users to register, log in, add tasks, and generate reports. Admin privileges provide additional functionalities like user registration and report generation.
 Technologies Used: python
 
 
+### 2. Voice Recognition app ()
+
+Description: A simple Python-based voice recognition program. Using the SpeechRecognition library and Google Web Speech API, this script lets you speak into your microphone and converts your words into text.
 <!--
 **btoxon/btoxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
