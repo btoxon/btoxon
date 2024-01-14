@@ -4,13 +4,11 @@
 
 
 ### Hello I'm Ben Taiwo 👋
-I am a Software Engineer, seeking to enhance my skills and contribute to innovative projects. Welcome to my GitHub portfolio, where I showcase my projects, skills, and experiences.
-
-
+I am looking to enhance my skills and contribute to innovative projects. Welcome to my GitHub portfolio, where I showcase my projects, skills, and experiences.
 
 
 ### 🚀 About Me
-I am a UK-based software engineer/bioinformatician with a good foundation in python.
+UK-based software engineer/bioinformatician with a good foundation in python.
 
 
 
