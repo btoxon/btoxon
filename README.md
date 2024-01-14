@@ -35,7 +35,13 @@ Technologies Used: python
 ### 2. Voice Recognition app (https://github.com/btoxon/voicerecognition.git)
 
 Description: A simple Python-based voice recognition program. Using the SpeechRecognition library and Google Web Speech API, this script lets you speak into your microphone and converts your words into text.
-<!--
+
+
+### 2. BioSeq Translator (https://github.com/btoxon/bioseqtools.git)
+
+Description: A python program that simplifies the transformation of genetic information. This program reads DNA sequences from files, transcribes them into RNA and further translates the resulting sequences into proteins.
+
+
 **btoxon/btoxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
