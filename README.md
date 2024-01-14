@@ -34,7 +34,7 @@ Description: A command-line Python program for efficient task management. This s
 Technologies Used: python
 
 
-### 2. Voice Recognition app ()
+### 2. Voice Recognition app (https://github.com/btoxon/voicerecognition.git)
 
 Description: A simple Python-based voice recognition program. Using the SpeechRecognition library and Google Web Speech API, this script lets you speak into your microphone and converts your words into text.
 <!--
