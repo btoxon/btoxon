@@ -12,6 +12,8 @@ UK-based software engineer/bioinformatician with a good foundation in python.
 
 
 
+
+
 ### 🔧 Technologies & Tools
 #### Here are some technologies and tools that I am proficient in:
 #### Languages: python, java
@@ -19,6 +21,8 @@ UK-based software engineer/bioinformatician with a good foundation in python.
 #### Databases: MySQL, Microsoft Azure Cosmos DB
 #### Tools: Docker, Kubernetes, Github Actions, Jira, Azure Devops
 #### Version Control: Git, GitHub
+
+
 
 
 
