@@ -2,16 +2,11 @@
 
 # Welcome to btoxon's github
 
+## 🚀 About Me
 
 ### Hello I'm Ben Taiwo 👋
 I am looking to enhance my skills and contribute to innovative projects. Welcome to my GitHub portfolio, where I showcase my projects, skills, and experiences.
-
-
-### 🚀 About Me
-UK-based software engineer/bioinformatician with a good foundation in python and java.
-
-
-
+UK-based. Good foundation in python and Java
 
 
 ### 🔧 Technologies & Tools
@@ -21,8 +16,6 @@ UK-based software engineer/bioinformatician with a good foundation in python and
 #### Databases: MySQL, Microsoft Azure Cosmos DB
 #### Tools: Docker, Kubernetes, Github Actions, Jira, Azure Devops
 #### Version Control: Git, GitHub
-
-
 
 
 
