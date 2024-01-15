@@ -8,7 +8,7 @@ I am looking to enhance my skills and contribute to innovative projects. Welcome
 
 
 ### 🚀 About Me
-UK-based software engineer/bioinformatician with a good foundation in python.
+UK-based software engineer/bioinformatician with a good foundation in python and java.
 
 
 
